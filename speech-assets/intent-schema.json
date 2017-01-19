@@ -10,6 +10,9 @@
       "intent": "AMAZON.NoIntent"
     },
     {
+      "intent": "StartGameIntent"
+    },
+    {
       "intent": "endSessionIntent"
     },
     {
